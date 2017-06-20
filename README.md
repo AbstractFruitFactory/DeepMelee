@@ -9,3 +9,6 @@ https://github.com/vladfi1/phillip
 
 SSBM data sheet:
 https://docs.google.com/spreadsheets/d/1JX2w-r2fuvWuNgGb6D3Cs4wHQKLFegZe2jhbBuIhCG8/edit#gid=12
+
+Input manager and memory watcher for Melee in dolphin:
+https://github.com/spxtr/p3
